@@ -1,8 +1,8 @@
 /* css page */
 
+
 ul {
     display: flex;
-    /* justify-items: flex-end; */
 } 
 
 #z_index {
@@ -13,3 +13,15 @@ ul {
 li {
     justify-self: flex-end;
 }
+
+.thirty_percent {
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+}
+
+.seventy_percent {
+    display: flex;
+    width: 70%;
+}
+
